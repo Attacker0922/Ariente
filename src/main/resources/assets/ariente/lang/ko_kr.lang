@@ -148,13 +148,13 @@ itemGroup.ariente=아리엔트
 # Messages
 message.ariente.shiftmessage=<쉬프트를 누르세요>
 message.ariente.negarite_generator=\
-    @f이 기계는 네가라이트를 생산합니다\n\
-    @f네가라이트 가루를 공급 받을때 플럭스\n\
-    @f이 블럭은 네가라이트 주입을 요구합니다\n\
-    @f작동을 위해 튜브를 위에
+    @fThis machine produces negarite\n\
+    @fflux when fed with negarite dust.\n\
+    @fThis block needs negarite infusion\n\
+    @ftubes above it to work
 message.ariente.posirite_generator=\
-    @f이 기계는 포시라이트를 생산합니다\n\
-    @f포시라이트 가루를 공급 받을때 플럭스
+    @fThis machine produces posirite\n\
+    @fflux when fed with posirite dust
 message.ariente.negarite_tank=\
     @fPlace one or more tanks on top\n\
     @fof a Negarite Flux Generator
@@ -198,3 +198,7 @@ message.ariente.door_marker=\
     @fMark doorways
 message.ariente.forcefield=\
     @fForcefield generator
+message.ariente.constructor=\
+    @fConstructor
+message.ariente.blueprint_storage=\
+    @fBlueprint Storage
