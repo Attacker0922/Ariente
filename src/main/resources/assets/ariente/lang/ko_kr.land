@@ -1,0 +1,200 @@
+#PARSE_ESCAPES
+
+item.ariente.ingot_platinum.name=백금 주괴
+item.ariente.ingot_lithium.name=리튬 주괴
+item.ariente.ingot_manganese.name=망가니즈 주괴
+item.ariente.ingot_silver.name=은 주괴
+item.ariente.dust_negarite.name=네가라이트 가루
+item.ariente.dust_posirite.name=포시라이트 가루
+
+item.ariente.energy_sabre.name=에너지 세이버
+item.ariente.enhanced_energy_sabre.name=강화 에너지 세이버
+item.ariente.key_card.name=키카드
+item.ariente.flux_levitator.name=플럭스 부양기
+item.ariente.dirty_diamond.name=더러운 다이아몬드
+
+item.ariente.powersuit_head.name=파워 헬멧
+item.ariente.powersuit_chest.name=파워 흉갑
+item.ariente.powersuit_legs.name=파워 레깅스
+item.ariente.powersuit_feet.name=파워 부츠
+
+item.ariente.module_armor.name=갑옷 업그레이드 모듈
+item.ariente.module_energy.name=전력 업그레이드 모듈
+item.ariente.module_featherfalling.name=가벼운 착지 업그레이드 모듈
+item.ariente.module_flight.name=비행 업그레이드 모듈
+item.ariente.module_forcefield.name=포스필드 업그레이드 모듈
+item.ariente.module_invisibility.name=투명화 업그레이드 모듈
+item.ariente.module_regeneration.name=재생 업그레이드 모듈
+item.ariente.module_speed.name=속도 업그레이드 모듈
+item.ariente.module_scramble.name=스크램블 업그레이드 모듈
+item.ariente.module_autofeed.name=자동 전력 공급 업그레이드 모듈
+item.ariente.module_nightvision.name=야간투시 업그레이드 모듈
+item.ariente.module_stepassist.name=보행 보조 업그레이드 모듈
+item.ariente.module_inhibit.name=세이버 억제 모듈
+item.ariente.module_power.name=세이버 전력 모듈
+item.ariente.module_looting.name=세이버 약탈 모듈
+item.ariente.module_fire.name=세이버 화염 모듈
+
+tile.ariente.pattern.dots.name=점 패턴
+tile.ariente.pattern.lines.name=선 패턴
+
+tile.ariente.guard_dummy.name=경비병 더미
+tile.ariente.soldier_dummy.name=군인 더미
+
+tile.ariente.reinforced_marble.name=강화 대리석
+tile.ariente.flux_beam.name=플럭스 광선
+
+tile.ariente.blacktech.dots.name=점 테크 블럭
+tile.ariente.blacktech.lines.name=선 테크 블럭
+tile.ariente.blacktech.var1.name=테크 블럭 1
+tile.ariente.blacktech.red_var1.name=붉은 테크 블럭 1
+tile.ariente.blacktech.lines_glow.name=발광선 테크 블럭
+tile.ariente.blacktech.red_lines_glow.name=붉은 발광선 테크 블럭
+tile.ariente.blacktech.panel.name=테크 블럭 패널
+
+tile.ariente.facade.name=퍼사드
+tile.ariente.connector.name=연결기
+tile.ariente.connector_posirite.name=포시라이트 연결기
+tile.ariente.connector_negarite.name=네가라이트 연결기
+tile.ariente.connector_posirite.name=포시라이트 연결기
+tile.ariente.connector_combined.name=복합 연결기
+tile.ariente.netcable.name=전선
+tile.ariente.netcable_negarite.name=네가라이트 전선
+tile.ariente.netcable_posirite.name=포시라이트 전선
+tile.ariente.netcable_combined.name=복합 전선
+tile.ariente.posirite_generator.name=포시라이트 플럭스 발전기
+tile.ariente.negarite_generator.name=네가라이트 플럭스 발전기
+tile.ariente.negarite_tank.name=네가라이트 탱크
+tile.ariente.posirite_tank.name=포시라이트 탱크
+tile.ariente.warper.name=순간이동기
+tile.ariente.alarm.name=알람
+tile.ariente.lock.name=잠금 장치
+tile.ariente.wireless_lock.name=무선 잠금 장치
+tile.ariente.wireless_button.name=무선 버튼
+tile.ariente.signal_receiver.name=신호 수신기
+tile.ariente.signal_transmitter.name=신호 송신기
+tile.ariente.storage.name=저장 큐브
+tile.ariente.elevator.name=엘리베이터
+tile.ariente.forcefield.name=포스필드 생성기
+tile.ariente.level_marker.name=레벨 마커
+tile.ariente.door_marker.name=문 마커
+tile.ariente.invisible_door.name=문
+tile.ariente.flatlight.name=평면 전구
+tile.ariente.aicore.name=AI 핵
+
+tile.ariente.ramp.name=전등
+tile.ariente.slope.name=경사
+
+tile.ariente.marble.gray.name=회색 대리석
+tile.ariente.marble.white.name=흰색 대리석
+tile.ariente.marble.blue.name=푸른색 대리석
+tile.ariente.marble.black.name=검은색 대리석
+tile.ariente.marble.lime.name=라임색 대리석
+tile.ariente.marble.red.name=붉은색 대리석
+
+tile.ariente.marble_smooth.gray.name=부드러운 회색 대리석
+tile.ariente.marble_smooth.white.name=부드러운 흰색 대리석
+tile.ariente.marble_smooth.blue.name=부드러운 푸른색 대리석
+tile.ariente.marble_smooth.black.name=부드러운 검은색 대리석
+tile.ariente.marble_smooth.lime.name=부드러운 라임색 대리석
+tile.ariente.marble_smooth.red.name=부드러운 붉은색 대리석
+
+tile.ariente.marble_pilar.gray.name=회색 대리석 기둥
+tile.ariente.marble_pilar.white.name=흰색 대리석 기둥
+tile.ariente.marble_pilar.blue.name=푸른색 대리석 기둥
+tile.ariente.marble_pilar.black.name=검은색 대리석 기둥
+tile.ariente.marble_pilar.lime.name=라임색 대리석 기둥
+tile.ariente.marble_pilar.red.name=붉은색 대리석 기둥
+
+tile.ariente.marble_bricks.gray.name=회색 대리석 벽돌
+tile.ariente.marble_bricks.white.name=흰색 대리석 벽돌
+tile.ariente.marble_bricks.blue.name=푸른색 대리석 벽돌
+tile.ariente.marble_bricks.black.name=검은색 대리석 벽돌
+tile.ariente.marble_bricks.lime.name=라임색 대리석 벽돌
+tile.ariente.marble_bricks.red.name=붉은색 대리석 벽돌
+
+tile.ariente.marble_slab.gray.name=회색 대리석 반 블럭
+tile.ariente.marble_slab.white.name=흰색 대리석 반 블럭
+tile.ariente.marble_slab.blue.name=푸른색 대리석 반 블럭
+tile.ariente.marble_slab.black.name=검은색 대리석 반 블럭
+tile.ariente.marble_slab.lime.name=라임색 대리석 반 블럭
+tile.ariente.marble_slab.red.name=붉은색 대리석 반 블럭
+
+tile.ariente.lapisore.name=청금석 광석
+tile.ariente.glowstoneore.name=발광석 광석
+tile.ariente.lithiumore.name=리튬 광석
+tile.ariente.manganeseore.name=망가니즈 광석
+tile.ariente.siliconore.name=규소 광석
+tile.ariente.silverore.name=은 광석
+tile.ariente.platinumore.name=백금 광석
+tile.ariente.posirite.name=포시라이트 광석
+tile.ariente.negarite.name=네가라이트 광석
+
+tile.ariente.glowlog.name=발광 원목
+tile.ariente.glowleaves.name=발광 나뭇잎
+tile.ariente.bluelog.name=청색 원목
+tile.ariente.blueleaves.name=청색 나뭇잎
+
+entity.ariente_drone.name=드론
+entity.ariente_sentinel_drone.name=드론 감시병
+entity.ariente_soldier.name=군인
+entity.ariente_master_soldier.name=최고 군인
+entity.ariente_hologui.name=홀로 GUI
+entity.ariente_laser.name=광선
+entity.ariente_flux_levitator.name=플럭스 부양기
+
+itemGroup.ariente=아리엔트
+
+# Messages
+message.ariente.shiftmessage=<쉬프트를 누르세요>
+message.ariente.negarite_generator=\
+    @f이 기계는 네가라이트를 생산합니다\n\
+    @f네가라이트 가루를 공급 받을때 플럭스\n\
+    @f이 블럭은 네가라이트 주입을 요구합니다\n\
+    @f작동을 위해 튜브를 위에
+message.ariente.posirite_generator=\
+    @f이 기계는 포시라이트를 생산합니다\n\
+    @f포시라이트 가루를 공급 받을때 플럭스
+message.ariente.negarite_tank=\
+    @fPlace one or more tanks on top\n\
+    @fof a Negarite Flux Generator
+message.ariente.posirite_tank=\
+    @fPlace one or more tanks on top\n\
+    @fof a Posirite Flux Generator
+message.ariente.storage=\
+    @fCan store large amounts of 4\n\
+    @fdifferent item types
+message.ariente.warper=\
+    @fWarp to nearby warpers
+message.ariente.alarm=\
+    @fCity status
+message.ariente.lock=\
+    @fLock
+message.ariente.wireless_lock=\
+    @aChannel: %s\n\
+    @fWireless Lock
+message.ariente.wireless_button=\
+    @aChannel: %s\n\
+    @fWireless Button. Right click on a transmitter\n\
+    @for receiver to link
+message.ariente.signal_receiver=\
+    @aChannel: %s\n\
+    @fThis logic block sends redstone signals from\n\
+    @fa linked transmitter. Right click on a transmitter\n\
+    @f(or other receiver) to link
+message.ariente.signal_transmitter=\
+    @aChannel: %s\n\
+    @fThis logic block accepts redstone signals and\n\
+    @fsends them out wirelessly to linked receivers\n\
+    @fPlace down to create a channel or else right\n\
+    @fclick on receiver/transmitter to use that channel
+message.ariente.elevator=\
+    @fMove up and down
+message.ariente.reinforced_marble=\
+    @fA very strong kind of marble
+message.ariente.level_marker=\
+    @fMark levels for the elevator
+message.ariente.door_marker=\
+    @fMark doorways
+message.ariente.forcefield=\
+    @fForcefield generator
